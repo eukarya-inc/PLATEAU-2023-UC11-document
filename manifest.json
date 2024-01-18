@@ -1,0 +1,387 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/sh5n/Documents/Eukarya/PLATEAU-R4-PS23-plugin-sharing-platform-Manual",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/index.html",
+          "hash": "qFCUz7ZJ2bMm5/j6H9w0qQkXnnKMRXq0GE/DGDje6AE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html",
+          "hash": "oYl5boOumeFE1RZ8tDtv4oUsXyaRoDhinuMz+v7p89k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 10.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 10.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 11.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 11.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 12.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 12.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 13.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 13.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 14.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 14.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 15.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 15.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 16.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 16.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 17.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 17.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 18.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 18.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 19.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 19.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 20.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 20.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 21.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 21.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 22.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 22.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 23.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 23.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 24.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 24.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 5.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 6.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 7.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 8.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled 9.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled 9.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Untitled.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Untitled.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "NXMYKfI8m/9x3D5PsPmHRssj7wqTzJYs89ay2qYuVCE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "Eqg62JCnNUTmcgHFjpkOciLIslKO+chU+AA66/pKJD0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
