@@ -1,4 +1,4 @@
-# Re:Earth Marketplace マニュアル
+# Re:Earth Marketplace マニュア
 
 ユーザー…プラグインを Marketplace からインストールして利用する人
 
