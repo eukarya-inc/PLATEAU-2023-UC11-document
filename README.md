@@ -1,1 +1,0 @@
-# PLATEAU-2023-UC11-document
