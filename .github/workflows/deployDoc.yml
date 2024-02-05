@@ -3,8 +3,8 @@
 #     branches:
 #       - main
 #     paths:
-#       - src/**
-#       - articles/**
+#       - manual/**
+#       - markdown/**
 #       - .github/workflows/deployDoc.yml
 
 #   workflow_dispatch:
